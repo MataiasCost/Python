@@ -19,7 +19,8 @@ class CEP:
                 # print(r)
                 print("Informações obtidas sobre o CEP:\nEstado:{}\nBairro:{}\nRua:{}".format(r['uf'],
                                                                                               r['bairro'],
-                                                                                              r['logradouro'])
+                                                                                              r['logradouro']),
+                '\nPara mais informações: https://viacep.com.br/'
                 )
 
 
