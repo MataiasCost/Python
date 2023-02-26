@@ -4,7 +4,8 @@
 
 # Resumo
 
-Código simples que acessa uma [API](http://exemplo.com/) pública sobre CEP. Executando o programa é pedido um CEP, que ao ser informado, retornará informações como estado, município e rua.
+Código simples que acessa uma [API pública sobre CEP](https://viacep.com.br/). Ao executar o programa será pedido um número de CEP, que vai retornar informações como estado, município e rua.
+
 
 # Como execuar o programa
 
