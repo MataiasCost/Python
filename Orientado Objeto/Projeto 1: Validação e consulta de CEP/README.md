@@ -4,7 +4,7 @@
 
 # Resumo
 
-Código simples que acessa uma <a href=“https://viacep.com.br/“>API</a> pública sobre CEP. Executando o programa é pedido um CEP, que ao ser informado, retornará informações como estado, município e rua.
+Código simples que acessa uma [API](http://exemplo.com/) pública sobre CEP. Executando o programa é pedido um CEP, que ao ser informado, retornará informações como estado, município e rua.
 
 # Como execuar o programa
 
